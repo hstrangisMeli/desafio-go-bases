@@ -11,7 +11,6 @@ type Ticket struct {
 	Email       string
 	Destination string
 	Time        string
-	Tickets     []Ticket
 }
 
 const (
